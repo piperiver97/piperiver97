@@ -1,5 +1,7 @@
-<img alt="Night Coding" src="https://i.ibb.co/DMn2p5M/eaad.png" width='200%' align="left"/>
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<h1 align="center"> Hi! I'm FELIPE <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+
+<img alt="Night Coding" src="https://i.ibb.co/DMn2p5M/eaad.png" width='250%' align="left"/>
+ 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -10,12 +12,11 @@
 ✉️ &nbsp;You can shoot me an email at riverosfelipe2126@gmail.com! I'll try to respond as soon as I can.\
 
 
-
+<img alt="Night Coding" src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
