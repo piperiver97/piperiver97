@@ -1,5 +1,4 @@
-
-<img src="https://i.ibb.co/DMn2p5M/eaad.png">
+<img alt="Night Coding" src="https://i.ibb.co/DMn2p5M/eaad.png" width='200%' align="left"/>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
