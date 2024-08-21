@@ -35,12 +35,5 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 !
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/piperiver97">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
